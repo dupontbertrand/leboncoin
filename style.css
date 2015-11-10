@@ -1,0 +1,12 @@
+header img {
+  margin-left: 25em;
+  float: left;
+}
+header p {
+  font-size: 0.9em;
+}
+#map {
+  margin-top: 5em;
+  margin-left: -20em;;
+  float: left;
+}
